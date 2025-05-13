@@ -227,3 +227,4 @@ language, but they are not expected to modify it.
 [hosted weblate website]: https://hosted.weblate.org/projects/git-manpages/
 [these marks]: https://docs.asciidoctor.org/asciidoc/latest/text/
 [Github]: https://github.com/jnavila/git-manpages-l10n
+go to

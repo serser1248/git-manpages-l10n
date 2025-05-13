@@ -12,6 +12,11 @@ cmds-synchelpers.txt
 cmds-synchingrepositories.txt
 cmds-userinterfaces.txt
 config.txt
+config/add.txt
+config/clone.txt
+config/commit.txt
+config/diff.txt
+config/init.txt
 config/merge.txt
 config/fmt-merge-msg.txt
 date-formats.txt
@@ -19,6 +24,7 @@ diff-format.txt
 diff-generate-patch.txt
 diff-options.txt
 fetch-options.txt
+gitignore.txt
 git-add.txt
 git-am.txt
 git-annotate.txt
@@ -184,6 +190,7 @@ pretty-formats.txt
 pretty-options.txt
 pull-fetch-param.txt
 ref-reachability-filters.txt
+ref-storage-format.txt
 rerere-options.txt
 revisions.txt
 rev-list-description.txt
